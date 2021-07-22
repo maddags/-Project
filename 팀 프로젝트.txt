@@ -1,0 +1,39 @@
+		----- 7/15일 팀 합류 ----
+
+1. 정기회의 : 매주 일요일
+   추가일정은 필요에 따라
+
+* miro 주소 : https://miro.com/app/board/o9J_l6-TDx8=/
+
+
+2. 만나는 방법 : 그때그때
+
+3. 팀명 : ???
+
+4. 주제 / 데이터셋 구하기
+
+* 사이트 주소
+통계청 :  https://kosis.kr/index/index.do
+공공데이터 : https://www.data.go.kr/
+한국복지패널 : https://www.koweps.re.kr:442/main.do
+서울열린데이터광장 : https://data.seoul.go.kr
+
+
+		     ----- 7/18일 -----
+
+식품 영양분 정보 사이트 : 
+https://www.fatsecret.kr/%EC%B9%BC%EB%A1%9C%EB%A6%AC-%EC%98%81%EC%96%91%EC%86%8C/search?q=GS%ed%8e%b8%ec%9d%98%ec%a0%90&pg=1 
+
+기상청 데이터 : https://data.kma.go.kr/cmmn/main.do
+
+
+
+
+
+		---- 7월 21일 ---
+국민건강영양조사 홈페이지:
+https://knhanes.kdca.go.kr/knhanes/main.do
+
+
+국민건강영양조사 데이터 주소 :
+https://knhanes.kdca.go.kr/knhanes/sub03/sub03_02_05.do
